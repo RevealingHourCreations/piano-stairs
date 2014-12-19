@@ -3,8 +3,6 @@
 sudo apt-get update
 sudo apt-get install vkeybd tightvncserver timidity freepats screen libasound2-dev autoconf automake libtool pkg-config libgtk2.0-dev libgtkmm-2.4-dev libjack-jackd2-dev libasound-dev liblash-compat-dev dssi-dev liblo-dev libsndfile-dev
 sudo apt-get remove amsynth
-git clone http://github.com/anujdeshpande/piano-stairs.git
-cd piano-stairs
 
 # Install amsynth
 git clone http://code.google.com/p/amsynth/
